@@ -6,6 +6,7 @@ Read the relevant companion documents before substantial work:
 
 - `reference/channel-bible.md` for identity and audience.
 - `reference/voice-guide.md` for prose, humour, and gaming references.
+- `reference/visual-identity.md` for visual language, Fusion compositions, motion graphics, stock footage, charts, documents, thumbnails, mascot usage, and design decisions.
 - `reference/research-standards.md` before researching or asserting facts.
 - `strategy/editorial-strategy.md` when evaluating topics or packaging.
 - `reference/script-template.md` when outlining or drafting a video.
@@ -94,6 +95,7 @@ Do not pad a dossier with generic background. Depth means resolving the difficul
 
 ## 6. Visual and chart rules
 
+- Treat `reference/visual-identity.md` as the canonical visual source of truth.
 - A chart must answer one named question. Label units, date range, frequency, source, and whether values are nominal, real, indexed, seasonally adjusted, or annualized.
 - Never use a second axis merely to manufacture correlation.
 - Start an axis away from zero only when the scale requires it and the treatment is visually explicit.
@@ -115,4 +117,3 @@ Before handing off substantive work, confirm silently that:
 - gaming references are intelligible to non-gamers;
 - no private professional information appears;
 - the title and thumbnail promise match the actual video.
-
