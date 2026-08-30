@@ -274,7 +274,7 @@ They still only had one France.
 ## Unresolved factual and production flags
 
 1. Before final narration, inspect the exact January 1782 annuity edict rather than relying only on Cramer’s transcription of its age bands.
-2. Verify the spellings of every girl’s name against the high-resolution scan, not OCR, if names appear in narration or on screen.
+2. The four names used in narration were checked against the high-resolution 1782 scan. Re-check any additional names added during the edit against the scan rather than OCR.
 3. Confirm e-rara/Bibliothèque de Genève reproduction terms before using the scans.
 4. Do not describe Necker as the inventor of the thirty-head structure.
 5. Do not label the product a conventional bond, a classic tontine, or a proven “first securitization.”
