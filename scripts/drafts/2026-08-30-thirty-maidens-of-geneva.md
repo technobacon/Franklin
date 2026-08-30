@@ -8,8 +8,8 @@
 - **Thesis:** Genevan financiers reduced the mortality risk in French life annuities by selecting and pooling young, trackable lives. The structure handled that risk quite well. It could not diversify the fact that every payment still came from France.
 - **Viewer begins believing:** Bankers made a grotesque wager on thirty girls, and the scheme helped bankrupt France.
 - **Viewer leaves believing:** This was a surprisingly sophisticated pooled investment that exploited crude longevity pricing, then ran into sovereign, currency, legal, and political risks it was never designed to handle.
-- **Estimated spoken word count:** approximately 2,550 words
-- **Approximate runtime:** 16–17 minutes at a calm 150–155 words per minute
+- **Estimated spoken word count:** approximately 2,315 words
+- **Approximate runtime:** 15–16 minutes at a calm 150–155 words per minute
 - **Information cutoff:** 2026-08-30
 - **Research dossier:** [research/2026-08-30-thirty-maidens-of-geneva.md](../../research/2026-08-30-thirty-maidens-of-geneva.md)
 - **Source ledger:** [research/2026-08-30-thirty-maidens-of-geneva-source-ledger.md](../../research/2026-08-30-thirty-maidens-of-geneva-source-ledger.md)
