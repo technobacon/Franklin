@@ -845,6 +845,207 @@ The scores are close because these ideas have already passed the basic topic fil
 6. Show why the domestic and financial cost undermined credibility.
 7. End with withdrawal from the ERM and the lesson that a promised price needs a sustainable policy behind it.
 
+
+## Ranked niche financial-history batch — 2026-08-30
+
+This is a **batch ranking**, ordered by contradiction, thesis potential, source depth, visual evidence, and Franklin fit. Scores use the channel rubric above; rank also reflects novelty and production risk.
+
+| Batch rank | Working title | C | P | T | E | V | F | Total | Stage |
+|---:|---|---:|---:|---:|---:|---:|---:|---:|---|
+| 1 | France Bet Its Debt on 30 Little Girls | 5 | 5 | 5 | 5 | 5 | 4 | **29/30** | Research portfolio complete |
+| 2 | The Fake Currency That Became Real | 5 | 5 | 5 | 5 | 5 | 4 | **29/30** | Best next research candidate |
+| 3 | The Country That Surrendered Its Democracy to Its Creditors | 5 | 5 | 5 | 5 | 5 | 4 | **29/30** | Flagship history candidate |
+| 4 | Why It Is Illegal to Trade Onion Futures | 5 | 4 | 5 | 5 | 5 | 4 | **28/30** | Compact market-history candidate |
+| 5 | The War Fought With Counterfeit Money | 5 | 5 | 5 | 4 | 5 | 4 | **28/30** | Research-intensive documentary |
+| 6 | The Water Tanks That Nearly Broke Wall Street | 5 | 4 | 5 | 5 | 5 | 4 | **28/30** | High-click fraud documentary |
+| 7 | The Currency That Survived Its Own Government | 5 | 5 | 5 | 4 | 5 | 3 | **27/30** | Monetary-history documentary |
+| 8 | When Investors Repossessed an Empire | 5 | 5 | 5 | 5 | 4 | 3 | **27/30** | Institutional-history flagship |
+| 9 | The $22 Billion Inheritance That Never Existed | 5 | 4 | 4 | 4 | 5 | 4 | **26/30** | Scam-history candidate; verify headline number |
+| 10 | The Wooden Money That Burned Down Parliament | 5 | 4 | 5 | 5 | 5 | 3 | **27/30** | Consolidate with existing tally-stick idea |
+
+### 1. France Bet Its Debt on 30 Little Girls
+
+- **Pillar:** Financial history and risk
+- **Status:** researching — production dossier and source ledger complete
+- **Research dossier:** [research/2026-08-30-thirty-maidens-of-geneva.md](../research/2026-08-30-thirty-maidens-of-geneva.md)
+- **Source ledger:** [research/2026-08-30-thirty-maidens-of-geneva-source-ledger.md](../research/2026-08-30-thirty-maidens-of-geneva-source-ledger.md)
+- **Central question:** Why did French government payments depend on thirty named Genevan girls, and why did a clever mortality pool still fail?
+- **Provisional thesis:** Genevan financiers exploited crude French life-annuity pricing by choosing young, trackable lives and pooling them. They diversified early-death risk but remained concentrated in French sovereign, currency, and political risk.
+- **Viewer begins believing:** Bankers made a grotesque wager on whether thirty girls would survive and helped bankrupt France.
+- **Viewer leaves believing:** This was early fund-like financial engineering that managed individual mortality risk better than it managed the common risk of France itself.
+- **Why somebody clicks:** An original 1782 document literally lists thirty girls whose survival governed investment income.
+- **Primary title:** France Bet Its Debt on 30 Little Girls
+- **Thumbnail:** THEY HAD TO STAY ALIVE
+- **Likely runtime:** 16–18 minutes
+- **Best evidence or case:** The two Bibliothèque de Genève lists, Cramer’s archive-based study, Velde and Weir’s debt-market research, and the revolutionary conversion of life annuities.
+- **Strongest counterargument:** This was neither a conventional bond nor usually a tontine, and it did not single-handedly cause the Revolution.
+- **Visual anchor:** Thirty name-lines become thirty income streams; one French seal sits behind all of them.
+- **Freshness risk:** Low history / medium asset-rights check
+- **Potential score:** C5 / P5 / T5 / E5 / V5 / F4 = **29/30**
+
+### 2. The Fake Currency That Became Real
+
+- **Pillar:** Money without a functioning issuer
+- **Status:** spark — best next research candidate
+- **Central question:** Why did counterfeit Somali shillings continue to circulate after the state that issued the currency collapsed?
+- **Provisional thesis:** A currency can retain transactional value without a credible central issuer when users share a denomination, price convention, and expectation of acceptance; counterfeiting can expand the money supply without immediately destroying the unit.
+- **Viewer begins believing:** Counterfeit money is worthless once everyone knows it is fake.
+- **Viewer leaves believing:** Money’s usefulness can survive the disappearance of the institution that originally guaranteed it, though inflation and denomination constraints still matter.
+- **Why somebody clicks:** Sellers knowingly accepted notes that virtually everyone understood might be counterfeit.
+- **Primary title:** The Fake Currency That Became Real
+- **Thumbnail:** EVERYONE KNEW
+- **Likely runtime:** 12–15 minutes
+- **Best evidence or case:** IMF and World Bank work on Somalia, central-bank history, field research on note acceptance, exchange rates, and the practical denomination floor.
+- **Strongest counterargument:** “Fake” compresses several note types and eras; the prevalence and acceptance of counterfeits varied by region, denomination, and date.
+- **Visual anchor:** Genuine and copied notes enter the same market while a price board keeps using one unit of account.
+- **Freshness risk:** Medium because modern monetary reform changes the ending.
+- **Potential score:** C5 / P5 / T5 / E5 / V5 / F4 = **29/30**
+
+### 3. The Country That Surrendered Its Democracy to Its Creditors
+
+- **Pillar:** Sovereign debt and political institutions
+- **Status:** spark — flagship history candidate
+- **Central question:** Why did Newfoundland suspend responsible government in 1934, and how central was debt to that decision?
+- **Provisional thesis:** A severe debt and fiscal crisis helped make self-government appear unaffordable to elites in Newfoundland and Britain, but the appointed Commission of Government was a political choice—not an automatic clause activated by creditors.
+- **Viewer begins believing:** Countries default, renegotiate, or receive a bailout when debt becomes unbearable.
+- **Viewer leaves believing:** Sovereign solvency can reshape the form of government itself when lenders, imperial authorities, and domestic elites decide fiscal control outranks electoral control.
+- **Why somebody clicks:** A self-governing country lost elected rule without invasion or coup.
+- **Primary title:** The Country That Surrendered Its Democracy to Its Creditors
+- **Thumbnail:** DEBT WON
+- **Likely runtime:** 15–18 minutes
+- **Best evidence or case:** Newfoundland’s royal commission report, British parliamentary records, budget and debt data, bond documentation, and scholarship on the 1934 constitutional suspension.
+- **Strongest counterargument:** “To its creditors” is a provocative frame; corruption, institutional legitimacy, the Depression, imperial politics, and local consent all require serious treatment.
+- **Visual anchor:** An elected assembly fades into a six-member appointed commission as debt-service claims fill the budget.
+- **Freshness risk:** Low
+- **Potential score:** C5 / P5 / T5 / E5 / V5 / F4 = **29/30**
+
+### 4. Why It Is Illegal to Trade Onion Futures
+
+- **Pillar:** Market design and regulation
+- **Status:** spark — compact market-history candidate
+- **Central question:** Why did the United States ban futures trading in onions while leaving almost every other agricultural futures market legal?
+- **Provisional thesis:** The 1958 ban was a political response to an extraordinary market squeeze and visible producer losses, but removing futures did not remove onion-price volatility.
+- **Viewer begins believing:** A futures ban must mean the underlying commodity is uniquely dangerous.
+- **Viewer leaves believing:** Futures can attract manipulation, yet they also transfer risk and reveal prices; banning a market can remove the tool without removing the volatility.
+- **Why somebody clicks:** Federal law still singles out onions.
+- **Primary title:** Why It Is Illegal to Trade Onion Futures
+- **Thumbnail:** THEY BOUGHT THE ONIONS
+- **Likely runtime:** 10–13 minutes
+- **Best evidence or case:** Congressional hearings, the Onion Futures Act, Chicago Mercantile Exchange records, enforcement history, and pre/post-ban price research.
+- **Strongest counterargument:** The famous “corner” story is often simplified; distinguish physical control, futures positions, storage, dumping, farmer losses, and later volatility.
+- **Visual anchor:** A warehouse map fills with onion sacks while the futures price and cash price diverge.
+- **Freshness risk:** Low
+- **Potential score:** C5 / P4 / T5 / E5 / V5 / F4 = **28/30**
+
+### 5. The War Fought With Counterfeit Money
+
+- **Pillar:** Monetary disorder and state competition
+- **Status:** spark — research-intensive documentary
+- **Central question:** How did competing rulers turn coin debasement into a cross-border weapon during the Kipper und Wipper crisis?
+- **Provisional thesis:** Fragmented minting authority let states export bad coin, capture seigniorage, and finance war, but competitive debasement fed back into prices, taxes, trust, and the fiscal capacity of the same rulers.
+- **Viewer begins believing:** Currency debasement is simply a king secretly putting less silver into his own coins.
+- **Viewer leaves believing:** In a fragmented monetary system, bad money can be produced strategically, pushed across borders, and returned as a destabilizing weapon.
+- **Why somebody clicks:** Early-modern states effectively raided one another with coins.
+- **Primary title:** The War Fought With Counterfeit Money
+- **Thumbnail:** MONETARY WARFARE
+- **Likely runtime:** 15–18 minutes
+- **Best evidence or case:** Mint ordinances, coin assays, price and exchange evidence, numismatic collections, and scholarship on the 1619–1623 Kipper und Wipper crisis.
+- **Strongest counterargument:** “Counterfeit” is not always legally exact; many bad coins were issued by authorities exercising real or disputed mint rights.
+- **Visual anchor:** A silver coin crosses a border, is reminted thinner, and returns in payment.
+- **Freshness risk:** Low
+- **Potential score:** C5 / P5 / T5 / E4 / V5 / F4 = **28/30**
+
+### 6. The Water Tanks That Nearly Broke Wall Street
+
+- **Pillar:** Fraud, collateral, and trust
+- **Status:** spark — high-click fraud documentary
+- **Central question:** How did lenders accept warehouse receipts for soybean oil that was largely not there?
+- **Provisional thesis:** The salad-oil swindle succeeded because financial institutions trusted documents, inspectors, and surface measurements as substitutes for directly verifying the collateral; the fraud exposed how one false asset can connect lenders, brokers, and markets.
+- **Viewer begins believing:** A commodity fraud requires hiding an empty warehouse.
+- **Viewer leaves believing:** Collateral can be faked through the verification process itself, especially when every institution relies on another party’s certificate.
+- **Why somebody clicks:** Tanks that appeared full of valuable oil were reportedly holding water beneath a thin surface layer.
+- **Primary title:** The Water Tanks That Nearly Broke Wall Street
+- **Thumbnail:** $100 MILLION OF NOTHING
+- **Likely runtime:** 13–16 minutes
+- **Best evidence or case:** Court records, American Express warehouse-receipt documents, congressional material, contemporary financial press, and the 1963 market aftermath.
+- **Strongest counterargument:** Verify the composition and measurement tricks tank by tank; popular retellings merge different methods and overstate how close the episode came to “breaking Wall Street.”
+- **Visual anchor:** A dipstick touches an oil layer while the tank cutaway reveals water underneath.
+- **Freshness risk:** Low
+- **Potential score:** C5 / P4 / T5 / E5 / V5 / F4 = **28/30**
+
+### 7. The Currency That Survived Its Own Government
+
+- **Pillar:** Monetary coordination
+- **Status:** spark — monetary-history documentary
+- **Central question:** Why did the old “Swiss” Iraqi dinar continue circulating and appreciate in Kurdish-held northern Iraq after Baghdad stopped backing or printing it?
+- **Provisional thesis:** A money can outlive its issuer when supply becomes fixed, local users continue quoting prices in it, and political expectations favor the region using it.
+- **Viewer begins believing:** A fiat currency becomes worthless the moment its government rejects it.
+- **Viewer leaves believing:** Issuance, legal tender, unit of account, acceptance networks, scarcity, and expected political settlement can separate.
+- **Why somebody clicks:** The abandoned notes became more valuable than the replacement notes backed by the government.
+- **Primary title:** The Currency That Survived Its Own Government
+- **Thumbnail:** NO COUNTRY. STILL MONEY.
+- **Likely runtime:** 12–15 minutes
+- **Best evidence or case:** IMF and academic exchange-rate studies, Coalition Provisional Authority currency-conversion records, central-bank documentation, and interviews or field accounts.
+- **Strongest counterargument:** “Swiss dinar” is a nickname with a disputed origin, and appreciation reflected political expectations and supply as well as spontaneous trust.
+- **Visual anchor:** Two Iraqi notes separate onto different price charts after one printing press stops.
+- **Freshness risk:** Low for the historical episode
+- **Potential score:** C5 / P5 / T5 / E4 / V5 / F3 = **27/30**
+
+### 8. When Investors Repossessed an Empire
+
+- **Pillar:** Sovereign default and institutional power
+- **Status:** spark — institutional-history flagship
+- **Central question:** How did foreign and domestic bondholders gain direct control over streams of Ottoman tax revenue?
+- **Provisional thesis:** After default, the 1881 Ottoman Public Debt Administration converted creditor distrust into an institution that directly collected assigned revenues, creating a state-like bureaucracy inside the empire.
+- **Viewer begins believing:** Creditors can sue, negotiate, or seize an overseas asset after a sovereign default.
+- **Viewer leaves believing:** Under unequal geopolitical power, creditors can reshape fiscal administration and build durable institutions inside the debtor state.
+- **Why somebody clicks:** Bondholders did not merely demand repayment; their administration collected taxes.
+- **Primary title:** When Investors Repossessed an Empire
+- **Thumbnail:** CREDITORS TOOK CONTROL
+- **Likely runtime:** 16–20 minutes
+- **Best evidence or case:** The Decree of Muharrem, Ottoman Public Debt Administration reports, revenue assignments, staffing and maps, bondholder records, and Ottoman economic histories.
+- **Strongest counterargument:** “Repossessed” and “foreign takeover” can erase Ottoman participation, domestic creditors, administrative bargaining, and the institution’s mixed effects.
+- **Visual anchor:** Revenue streams from salt, tobacco, stamps, and alcohol divert from the treasury into a separate creditor administration.
+- **Freshness risk:** Low
+- **Potential score:** C5 / P5 / T5 / E5 / V4 / F3 = **27/30**
+
+### 9. The $22 Billion Inheritance That Never Existed
+
+- **Pillar:** Scam psychology and compound-interest myths
+- **Status:** spark — verify the headline number before promotion
+- **Central question:** How did Oscar Hartzell persuade thousands of people to fund a campaign for a centuries-old Sir Francis Drake inheritance?
+- **Provisional thesis:** The scam turned legal delay into evidence of a growing fortune: every year without payment made the imagined compound-interest jackpot larger and the next contribution feel necessary.
+- **Viewer begins believing:** An inheritance scam works by forging one convincing will.
+- **Viewer leaves believing:** A durable affinity fraud can convert delay, bureaucracy, and sunk costs into reasons to keep paying.
+- **Why somebody clicks:** Families financed a claim to an Elizabethan fortune for decades even though the estate did not exist.
+- **Primary title:** The $22 Billion Inheritance That Never Existed
+- **Thumbnail:** 300 YEARS OF “INTEREST”
+- **Likely runtime:** 12–15 minutes
+- **Best evidence or case:** Federal trial and appeal records, postal-inspection material, contemporary newspapers, solicitation letters, victim networks, and estimates of collections and promised value.
+- **Strongest counterargument:** The $22 billion figure and “300 years of interest” may come from promotional claims or later retellings; verify the number or change the title.
+- **Visual anchor:** A family tree grows into a compound-interest chart while each legal delay adds another funding request.
+- **Freshness risk:** Low
+- **Potential score:** C5 / P4 / T4 / E4 / V5 / F4 = **26/30**
+
+### 10. The Wooden Money That Burned Down Parliament
+
+- **Pillar:** Accounting infrastructure and unintended consequences
+- **Status:** spark — consolidate with [Britain Burned Its Old Debt Records—and Parliament With Them](#britain-burned-its-old-debt-recordsand-parliament-with-them)
+- **Central question:** How did the destruction of obsolete Exchequer tally sticks contribute to the 1834 fire at the Palace of Westminster?
+- **Provisional thesis:** Tally sticks made state obligations portable and auditable in a low-paper bureaucracy, but obsolete records became a physical disposal problem whose careless solution helped destroy Parliament.
+- **Viewer begins believing:** Wooden sticks were a primitive substitute for coins.
+- **Viewer leaves believing:** They were split accounting and claim records—an information technology whose physical afterlife caused an institutional disaster.
+- **Why somebody clicks:** Government accounting records were burned in furnaces, and the building burned with them.
+- **Primary title:** The Wooden Money That Burned Down Parliament
+- **Thumbnail:** THE ACCOUNTING DID THIS
+- **Likely runtime:** 9–12 minutes
+- **Best evidence or case:** Parliamentary fire inquiries, Exchequer records and surviving tallies, contemporary illustrations, architectural reports, and scholarship on tally accounting.
+- **Strongest counterargument:** “Wooden money” is catchy but incomplete; tallies served receipts, accounts, tax claims, and financial instruments rather than functioning as ordinary currency.
+- **Visual anchor:** A notched stick splits into matching records, circulates as a claim, then enters an overheated furnace.
+- **Freshness risk:** Low
+- **Potential score:** C5 / P4 / T5 / E5 / V5 / F3 = **27/30**
+
+
 ## Parked ideas
 
 Keep ideas here when evidence is weak, the thesis duplicates an existing project, the title promises more than the research can support, or production is currently too demanding. Record why an idea was parked so the same dead end is not researched twice.
