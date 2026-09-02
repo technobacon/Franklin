@@ -106,7 +106,7 @@ This ledger separates evidence for historical claims from material that is merel
 
 - **Publisher:** Harvard University Press
 - **ISBN:** 978-0-674-04703-7
-- **Searchable reading copy used for this pass:** https://dokumen.pub/stuff-and-money-in-the-time-of-the-french-revolution-0674047036-9780674047037.html
+- **Publisher page:** https://www.hup.harvard.edu/books/9780674975422
 - **Why it matters:** The strongest reconstruction of the girls as people moving through a working administrative system rather than as symbols in a fiscal argument.
 - **Page-accurate material checked:**
   - **pp. 19–20:** the French representative counted girls repeatedly; 27 were checked on the morning of 1 July 1784 and more than 100 women and girls later that day; in October 1784, 29 girls under seven gathered in his reception rooms.
@@ -115,7 +115,7 @@ This ledger separates evidence for historical claims from material that is merel
   - **pp. 25–26:** the plaster bust traditionally identified as Anne Audéoud and her later marriage to Gabriel Cramer.
   - **pp. 27–28:** investors across Europe; the girls' lack of financial interest; signatures not required; the Strasbourg official who noted three girls could not sign because they could not read or write.
 - **Use with care:** The October 1784 headcount and January 1782 list are separate cohorts. Spang also makes interpretive comparisons the script does not need.
-- **Citation workflow:** Use the printed book for final on-screen bibliography. The searchable copy was used to locate and verify passages, not as a visual asset.
+- **Citation workflow:** Page references were checked during the research pass. Use the publisher or printed edition for the final on-screen bibliography; do not use a third-party text mirror as a visual asset.
 
 ### B5a. François Forster, “Les trente Immortelles de Genève” (2006)
 
@@ -209,7 +209,7 @@ No eighteenth-century footage exists. Use modern establishing shots sparingly, t
 ## Verification queue
 
 1. Obtain and inspect Velde’s “The Case of the Undying Debt.”
-2. Obtain page-accurate access to Spang’s book.
+2. Check the cited Spang pages against the production copy used for the final on-screen bibliography.
 3. Ask the Geneva archive for one original participation contract and one certificate of life.
 4. Find the exact January 1782 French edict and its rate schedule.
 5. Reconcile Cramer’s Geneva totals with Velde/Weir and any later scholarship.
