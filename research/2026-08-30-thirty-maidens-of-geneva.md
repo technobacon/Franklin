@@ -394,72 +394,40 @@ Return to all thirty names. End with the girls changing while the paper keeps th
 
 ## Visual plan
 
-
-
 ### Visual grammar
 
-- **Lives:** thirty cream circles with initials or line-art silhouettes
-- **Income:** thin gold streams
-- **France:** one blue royal seal or treasury box
-- **Deaths:** a circle dims and its individual stream stops
-- **Sovereign failure:** the common treasury/seal cracks, interrupting every stream
-- **Documents:** warm paper scans, slow camera moves, restrained highlighting
-- **Do not use:** faux-AI portraits of the named girls presented as real, horror imagery, heart monitors, modern casino chips, or photographs of identifiable children
+- **Children as documented people:** names, birth dates, family links, and the Anne Audéoud bust with its cohort caveat.
+- **The count:** a reception room reconstructed through objects, footsteps, a list, and marks beside names. Do not invent faces.
+- **Payments:** one thin line that moves only while a name is marked alive. Retire the diagram after the mechanism is understood.
+- **Time:** addresses, marriage names, seals, and lost letters; later, dates advancing beside Elisabeth-Pauline's line.
+- **Death:** return to Pernette's exact name and hold. No heartbeat, horror sting, extinguished candle, or child silhouette fading away.
+- **Ending:** the unaltered list, all names equally visible.
 
-### High-value document sequence
+### High-value document and image sequence
 
-1. 1782 list heading
-2. One name and birth date
-3. Companion list showing the father
-4. Cramer’s table or paragraph describing 30,000 rent and 30-livre parts
-5. Necker’s Compte rendu
-6. Assignat
-7. Revolutionary conversion table or Cambon document, once verified
+1. October 1784 headcount reconstructed from Spang's cited diplomatic record.
+2. BGE Gf 1341/3/2303: January 1782 names and birth dates.
+3. BGE Gf 1341/3/2304: the same system with fathers identified.
+4. Cramer p. 116: selection, medical care, inoculation, Pernette's death.
+5. Met object 42.23.2: bust traditionally identified as Anne Audéoud.
+6. Cramer pp. 118–19: certificates lost from England and a marriage not registered.
+7. City of Geneva library page: Elisabeth-Pauline's 1778–1862 lifespan.
+8. Return to the BGE list for the final count.
 
-### Production assets
+### Production rule
 
-The companion [source ledger](./2026-08-30-thirty-maidens-of-geneva-source-ledger.md) contains direct links and rights notes for:
+One visual idea per spoken beat. Modern Geneva footage can establish place for a few seconds, but documents and restrained motion should carry the episode. Avoid Versailles, Necker portraits, assignats, and generic Revolution footage unless a very brief date transition genuinely needs them.
 
-- two original 1782 lists
-- Necker’s 1781 public account
-- public-domain portraits of Necker and Louis XVI
-- public-domain assignats
-- inoculation imagery
-- Geneva and Versailles establishing footage
-- quill, ledger, and printing-press motion assets
+## Narrative guardrails
 
-## Suggested research-driven script beats
-
-1. **Thirty names, one rule:** identify the actual document and payment condition.
-2. **The state sells time:** explain the life annuity.
-3. **France misprices a human variable:** age bands and flat rates create selection value.
-4. **Geneva turns local knowledge into an edge:** families, medicine, records, and banking links.
-5. **Thirty is a portfolio:** use the one-thirtieth income drop.
-6. **The invisible infrastructure:** proof of life, remittance, commissions, legal ownership.
-7. **Necker enters:** borrower, Genevan network, and public credibility.
-8. **The product works:** many girls survive; the pool smooths individual deaths.
-9. **The country fails:** restructuring, inflation, institutional rupture, and bank failures.
-10. **The wrong diversification:** the common French exposure defeats the basket.
-11. **The myth corrected:** not a tontine, not a single cause of Revolution, not necessarily the first securitization.
-12. **Modern payoff:** diversification only works across risks that are actually independent.
-
-## Counterargument section
-
-### “The state was not stupid; it charged a high nominal rate because its credit was weak.”
-
-Correct and important. A 9–10 percent annuity rate cannot be judged only against modern safe yields. France’s credit, liquidity, taxation, and political constraints all raised the required return. The argument is not that every young-life annuity was a guaranteed arbitrage. The narrower claim is that pricing and nomination rules left exploitable variation in expected duration.
-
-### “The banks did not eliminate mortality risk.”
-
-Correct. Pooling reduced idiosyncratic mortality. A bad epidemic or correlated health shock could still damage a cohort. Avoid saying the pool was “safe.”
-
-### “The revolutionary loss proves the investment was bad.”
-
-Not necessarily. Ex ante, investors may rationally have accepted sovereign risk in exchange for attractive expected payments. Ex post failure does not prove the original decision was irrational. The video’s point is about the mismatch between the risk optimized and the risk ultimately realized.
-
-### “Calling the girls collateral is wrong.”
-
-Yes. Their bodies were not pledged or owned. Their continued lives were contractual reference events. Use “measuring lives,” “named lives,” or “heads,” and explain the historical terminology once.
+- The October 1784 gathering is not presented as the exact January 1782 cohort.
+- Anne Audéoud is from the broader system, not the January 1782 list.
+- The girls are never described as investors, willing participants, property, or collateral.
+- Medical care and inoculation occurred in some arrangements, not necessarily for every child.
+- No invented reaction, dialogue, domestic scene, or private feeling is assigned to a named girl.
+- Pernette's death is a family event before it is a financial number.
+- Elisabeth-Pauline's missing biography is acknowledged, not filled with generic womanhood.
+- The conclusion ends on the girls. It does not pivot to a modern portfolio lesson.
 
 ## Do-not-overclaim guardrails
 
