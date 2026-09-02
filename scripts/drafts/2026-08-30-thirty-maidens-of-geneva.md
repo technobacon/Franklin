@@ -1,312 +1,291 @@
-# France Bet Its Debt on 30 Little Girls
+# The 30 Little Girls Who Became an Investment
 
 ## Metadata
 
-- **Working title:** France Bet Its Debt on 30 Little Girls
-- **Thumbnail premise:** The original 1782 list beside thirty small portraits or markers; text: **THEY HAD TO STAY ALIVE**
-- **Central question:** Why did French government payments depend on thirty named Genevan girls, and why did the resulting investment still fail?
-- **Thesis:** Genevan financiers reduced the mortality risk in French life annuities by selecting and pooling young, trackable lives. The structure handled that risk quite well. It could not diversify the fact that every payment still came from France.
-- **Viewer begins believing:** Bankers made a grotesque wager on thirty girls, and the scheme helped bankrupt France.
-- **Viewer leaves believing:** This was a surprisingly sophisticated pooled investment that exploited crude longevity pricing, then ran into sovereign, currency, legal, and political risks it was never designed to handle.
-- **Estimated spoken word count:** approximately 2,315 words
-- **Approximate runtime:** 15–16 minutes at a calm 150–155 words per minute
-- **Information cutoff:** 2026-08-30
+- **Working title:** The 30 Little Girls Who Became an Investment
+- **Thumbnail premise:** The original 1782 list beside a child-sized silhouette; text: **THEY HAD TO STAY ALIVE**
+- **Central question:** Why did a French diplomat repeatedly summon and count little girls in Geneva—and why were people across Europe waiting for the result?
+- **Story promise:** Follow the named girls from the moment bankers selected them, through the strange public headcounts that certified they were alive, to the deaths, marriages, journeys, and very long lives that kept changing financial ledgers they had never chosen to enter.
+- **Viewer begins believing:** One group of thirty girls was used in a macabre wager by the French state.
+- **Viewer leaves knowing:** Genevan bankers repeatedly built thirty-life pools around real girls from connected families. The girls did not invest, sign, or profit merely by being named; their ordinary lives became the evidence that kept payments moving across Europe.
+- **Estimated spoken word count:** approximately 1,575 words
+- **Approximate runtime:** 11–12 minutes at a restrained documentary pace, allowing room for names, documents, and silence
+- **Information cutoff:** 2026-09-02
 - **Research dossier:** [research/2026-08-30-thirty-maidens-of-geneva.md](../../research/2026-08-30-thirty-maidens-of-geneva.md)
 - **Source ledger:** [research/2026-08-30-thirty-maidens-of-geneva-source-ledger.md](../../research/2026-08-30-thirty-maidens-of-geneva-source-ledger.md)
-- **Script status:** full factual draft, diagnosed and voice-revised; creator read-aloud pending
+- **Script status:** full human-story rewrite; factual and voice pass complete; creator read-aloud pending
 
 ## General visual and music direction
 
-Open almost silently on the genuine 1782 document. Use warm paper, black ink, narrow highlights, and small restrained movements. The middle can become more mechanical as the investment is assembled: names, payment streams, bank records, and a simple thirty-life diagram. When France becomes the common risk, pull the colour out and let the music become less stable rather than simply louder.
+Stay close to the girls: names, ages, family links, a surviving child's portrait, proof-of-life paperwork, and the physical ritual of being counted. France should appear only when the payment rule needs explaining. Avoid generic Revolution montages until the final minutes, and even there keep them brief.
 
-Franklin should appear only for small reactions or explanations. This story already contains enough strange material.
+Do not generate faces for named children. The absence of portraits is part of the story. Use the public-domain Anne Audéoud bust only with the explicit clarification that she belongs to the wider group of Genevan measuring lives, not the January 1782 list.
 
 ---
 
-## 0:00–0:55 — Thirty names
+## 0:00–1:10 — The man who counted girls
 
-[VISUAL: PRIMARY DOCUMENT — full 1782 list from the Bibliothèque de Genève; slow push toward the heading, then individual names and birth dates]
+[VISUAL: Quiet reconstruction through objects only: a reception-room door, shoes crossing a polished floor, a hand setting a list on a desk. No invented faces.]
 
-This is a real financial document from Geneva. It was printed in January 1782.
+In October 1784, twenty-nine little girls arrived at the home of the French king's representative in Geneva.
 
-And on it are thirty names.
+Every one of them was under seven.
 
-Jeanne-Louise Marcet. Marguerite Roux. Anne-Marie-Albertine Sarasin. Eugénie-Michée de la Rive.
+They came with adults. They were shown into his formal reception rooms, which, for that morning, must have felt less like a diplomat's house and more like a very expensive school assembly.
 
-All girls. Some only a few years old. At least one was still an infant.
+The man had a list.
 
-The document records their dates of birth, and another surviving version even lists their fathers. Which would make sense for a school register, or maybe a church record.
+He looked at the girls. He checked their names. And once he was satisfied, they could go.
 
-It makes slightly less sense for an investment.
+There was no exam. No ceremony. He did not need to know whether they were happy, clever, or well behaved.
 
-But that is what this was.
+He needed to know whether they were alive.
 
-The French government had borrowed money, and the payments on part of that debt would continue only while these girls remained alive. When one of them died, part of the income stopped.
+[VISUAL: The words “alive / present” appear beside a name; cut to a thin payment line moving from Paris through Geneva and outward across a map of Europe.]
 
-The girls had not lent France money. Most of them were far too young to understand what France was. They were the measuring system.
+Because if a girl was alive, money kept moving.
 
-And for the investors in Geneva, keeping track of whether these children were alive became part of managing a portfolio.
+To her relatives. To bankers. To investors she had never met, in cities she might never visit.
+
+And if she had died, one of those payments stopped.
+
+This was not a one-off inspection. The diplomat counted girls as often as twice a week—and sometimes twice in one day. On the first of July 1784, he checked twenty-seven in the morning. A few hours later, more than one hundred women and girls passed through his rooms.
+
+Geneva's daughters had become part of Europe's financial plumbing.
+
+## 1:10–2:20 — Thirty names on paper
+
+[VISUAL: PRIMARY DOCUMENT — Bibliothèque de Genève, BGE Gf 1341/3/2303. Begin on the heading, then move line by line.]
+
+We still have one of the lists.
+
+It was printed in January 1782, and it names thirty girls.
+
+Jeanne-Louise Marcet, born the third of May 1773.
+
+Marguerite Roux.
+
+Anne-Marie-Albertine Sarasin.
+
+Eugénie-Michée de La Rive.
+
+The oldest was eight. The youngest was not yet one.
+
+Near the bottom is Pernette-Elisabeth Martin, born the seventh of June 1780. When her name was printed here, she was about nineteen months old.
+
+A little higher is Elisabeth-Pauline de Chapeaurouge. She was three.
+
+[VISUAL: Companion list, BGE Gf 1341/3/2304. Reveal the fathers' names beside the girls.]
+
+Another version adds their fathers. That detail mattered. The bankers were not looking for anonymous children. They wanted girls whose births, families, health, and whereabouts could be checked.
+
+And one clarification: there was not a single, permanent squad of exactly thirty children. Bankers assembled several groups—sometimes thirty lives, sometimes more. The phrase “the thirty girls of Geneva” became almost a product name.
+
+But every version of the product began the same way.
+
+With actual names.
+
+## 2:20–3:40 — The rule attached to them
+
+[VISUAL: One clean diagram. An investor pays a lump sum. France sends an annual payment while a named girl's marker remains lit.]
+
+The rule was simple enough to fit on one screen.
+
+An investor gave the French state a lump sum. France promised regular payments for as long as a named person remained alive. When that person died, the payments ended. The original lump sum did not come back.
+
+It was called a *rente viagère*—a life annuity.
+
+The odd part was that the investor and the named life did not have to be the same person.
+
+An elderly investor could hand over the money, name a healthy child in Geneva, and keep receiving income as long as that child lived. The investor might die first. The right to the income could pass on. The girl remained the clock.
+
+One pastor, Antoine Josué Diodati, had a daughter named Colombine and five other daughters. Instead of attaching all his money to one child, he could divide it equally across the six sisters. One terrible night could no longer erase the whole income.
+
+In the 1770s, Genevan bankers expanded that family idea. Daughters, nieces, granddaughters, cousins. Thirty at a time.
+
+If one girl died, twenty-nine parts could continue.
+
+That is almost all the finance we need. The rest of the story is what happened when a market built around children had to follow those children through real life.
+
+## 3:40–5:20 — Choosing the girls
+
+[VISUAL: Names from prominent Genevan families connect gently across a period map: Pictet, Cramer, Sarasin, Diodati, Rilliet, de La Rive.]
+
+The girls were chosen carefully.
+
+Usually they came from wealthy, well-known households. Partly because bankers knew the families. Partly because a child in a comfortable home had a better chance of good food, attentive care, and a doctor when she needed one.
+
+Girls were preferred. The people arranging these contracts believed they were likely to live longer and were less likely than boys to disappear into military service abroad.
+
+They took that second point surprisingly far. In the rarer cases where boys were selected, some received small pensions in exchange for staying in Geneva and avoiding occupations considered dangerous.
+
+The girls could also receive medical attention paid for by people with money riding on their survival. Archival research describes children being monitored by doctors and, in some cases, inoculated against smallpox.
+
+So yes, strangers had a financial interest in keeping them alive.
+
+But the girls themselves had no financial interest in the annuities attached to them. Official records say so directly. Their signatures were not required.
+
+When three young girls moved away from Geneva, an official in Strasbourg certified that they were alive and healthy, then added that they had not signed because they could not read or write.
 
 [beat]
 
-This sounds like a very dark form of gambling. It was actually something stranger: a government bond market with a badly designed rule, and a group of bankers who became extremely good at exploiting it.
+They were old enough to carry investments.
 
-## 0:55–3:10 — The contract
+They were not old enough to sign their names.
 
-[VISUAL: SYSTEM DIAGRAM — investor pays 100 livres into a royal treasury; a 10-livre annual stream returns while one human figure remains lit]
+## 5:20–6:40 — A face among the “heads”
 
-France was selling what it called a rente viagère. A life annuity.
+[VISUAL: The Met's public-domain plaster bust traditionally identified as Anne Audéoud. Hold longer than normal.]
 
-The basic version is easy enough.
+For most of the girls, there is no portrait we can confidently put on screen. The archive kept the information the contract needed: a name, a father, a birth date, alive or dead.
 
-You give the government a lump sum of money. In return, the government pays you a fixed amount every year for the rest of your life. When you die, the payments end, and the government keeps the original money.
+But this plaster bust is traditionally identified as Anne Audéoud of Geneva, the daughter of a banker, modeled around the same period.
 
-So if you give France 100 livres and receive 10 livres a year, you recover the nominal amount after ten years. Live much longer and the contract starts looking very good. Die in year two and France has done quite well out of you.
+She is not the Audéoud girl on our January 1782 sheet. She belongs to the much wider circle of Genevan girls and women whose lives were used for these annuities.
 
-There is no date when the principal comes back. The life is the maturity date.
+And for a moment, she makes the paperwork less tidy.
 
-This kind of product was not inherently absurd. Life annuities still exist. They can give someone income they cannot outlive, while the issuer pools together people who will live for different lengths of time.
+There is the ruffled dress. The hair that would not sit still. The expression of a child having to remain still for an adult.
 
-The French version, however, had a useful little feature.
+Anne later married Gabriel Cramer. Other named girls also grew up, married, left Geneva, or followed family members abroad.
 
-The person providing the money did not always have to be the person whose life controlled the payments.
+Their investors now had a problem that no table of life expectancy could solve.
 
-You could nominate somebody else.
+Where, exactly, had the girl gone?
 
-And that changes the question completely. You are no longer asking, “Do I want income for as long as I live?”
+## 6:40–8:05 — Prove that she is alive
 
-You are asking, “Whose life should I attach this income to?”
+[VISUAL: Letters travel from England, Lyon, Marseille, and Bern toward Geneva; one disappears en route.]
 
-Once investors were allowed to choose that person, the contract became a search for the best possible human being.
+Before France released each payment, the bankers needed certificates proving the named lives were still alive.
 
-## 3:10–5:25 — The number France priced badly
+That was easy when everyone lived a few streets apart. It became harder when the girls became women and moved.
 
-[VISUAL: PRIMARY DOCUMENT AND SIMPLE RATE CARD — January 1782 rate bands; a child and a 49-year-old placed beneath the same 10% bracket]
+In 1793, payments linked to Eléonore-Madeleine Bertrand were four half-years late. She had married William Wickham, a British Foreign Office official, and the certificates sent from England appear to have been lost on the way.
 
-One French issue in January 1782 offered a 10 percent annuity on a single life anywhere from birth to age fifty. The rate rose to 11 percent between fifty and sixty, and 12 percent above sixty.
+Jacqueline Rolaz's payments fell six half-years behind for a different reason. She had married Monsieur de Boisy, but her husband had not properly registered the marriage with the banker while he argued with Swiss tax authorities about her dowry.
 
-The higher rate for older people makes sense. France expected to pay them for fewer years.
+Nothing had happened to Jacqueline.
 
-But look at the first group again.
+She was alive. She had simply become administratively difficult.
 
-A baby and a forty-nine-year-old could both receive the same 10 percent rate.
+This is what the girls' lives looked like from inside the bank: a new surname, a forwarding address, a late letter, a seal, a witness, a missing certificate.
 
-Obviously, many children did not survive childhood in the eighteenth century. Choosing the youngest available child without knowing anything else would have been a fairly grim strategy, and not necessarily a good one.
+Every six months, a living person had to be flattened back into acceptable proof.
 
-Genevan bankers tried to be much more selective.
+## 8:05–9:35 — Pernette, aged eight
 
-They looked for young people who had already passed some of the most dangerous early years. They preferred girls, partly because women tended to live longer. They chose children from known families whose health and identity could be followed. Smallpox mattered enormously, so surviving it—or, in some cases, being inoculated against it—could make a child a better measuring life.
+[VISUAL: Return to the 1782 list. Highlight “Pernette-Elisabeth Martin — 7 June 1780.” Then hold; do not dramatize with a heartbeat or horror sound.]
 
-I realise how unpleasant the phrase “better measuring life” sounds. The records used the word “head.” Finance has always been very good at finding tidy nouns for things that are not tidy at all.
+And sometimes the certificate could not be produced because the child was gone.
 
-The selection was not perfectly scientific. These bankers did not have modern mortality tables, national health data, or a clean actuarial model. What they did have was local information.
+Pernette-Elisabeth Martin—the nineteen-month-old near the bottom of the 1782 list—died when she was eight.
 
-Geneva was relatively small. Its banking and merchant families knew one another. Births could be documented. A child from a prominent household was easier to trace than a stranger living hundreds of kilometres away.
+We do not know enough about her short life to pretend we can narrate it. We have the date of her birth. We have her father's name. We have the financial record of what stopped when she died.
 
-The French state had set the price. Geneva became very good at choosing what went into the contract.
+Historian Marc Cramer calculated that more than 212,000 livres in annual annuity payments had been attached to Pernette's life.
 
-In modern terms, the bankers found the stat that France had priced badly and min-maxed it.
+That figure is a historical reconstruction, not a neat modern account. Even so, its scale is startling.
 
-## 5:25–7:40 — Managing thirty human lives
+For her family, an eight-year-old girl had died.
 
-[VISUAL: ARCHIVAL COLLAGE — family names, a physician’s silhouette, inoculation illustration, letters and certificates connected by thin ink lines]
+In Paris and Geneva, clerks removed income from ledgers.
 
-Selecting a girl was only the beginning, because France would not keep paying indefinitely on the polite assurance that she was probably fine.
+Across Europe, people who may never have heard Pernette speak received less money.
 
-The banks needed proof of life.
+That contrast is the most uncomfortable part of the story. The system did not require anyone to celebrate her death. The investors wanted the opposite. But it gave the same event two completely different meanings, depending on which piece of paper you were holding.
 
-If a nominee stayed in Geneva, that was manageable. If she moved to Lyon, Marseille, Bern, England, or somewhere else, somebody had to obtain a certificate confirming that she was still alive and send it through the system.
+An earlier girl, Colombine Diodati, made it to twenty before she became the first death in her group. Another child, Jeanne Pictet, died at four. A later pool lost three of thirty lives in its first year.
 
-The bank collected the French payment, dealt with agents in Paris, maintained the records, passed money to the actual investors, and charged a commission.
+Every loss began in a home.
 
-In some arrangements, the people with money at stake also paid for medical attention and smallpox inoculation. There were occasional boys in these schemes too. Cramer’s archival research describes boys receiving payments on the condition that they remain in Geneva and avoid dangerous foreign service.
+Then it became a fraction.
 
-Which is an extraordinary clause when you think about it.
+## 9:35–11:00 — The girl who stayed on the page
 
-An investor did not control how long a child lived. But the contract gave the investor a financial reason to care whether the child travelled, became ill, joined an army, or disappeared from the records.
+[VISUAL: Highlight “Elisabeth-Pauline de Chapeaurouge — 20 April 1778.” Let the years advance quietly beside the document.]
 
-There is no evidence here of investors wanting these children harmed. Quite the opposite. A long, quiet, well-documented life was exactly what they wanted.
+But most of the selected girls did not die young.
 
-Still, the relationship was impersonal in a way that feels very modern. A child could grow up, move away, marry, and live an entire life while somewhere else her name remained a line in a bank’s income records.
+Take Elisabeth-Pauline de Chapeaurouge, the three-year-old on the 1782 list.
 
-## 7:40–10:05 — Turning thirty lives into one investment
+She lived until 1862.
 
-[VISUAL: SYSTEM ANIMATION — thirty circles illuminate; each sends one livre into a combined 30-livre payment; one circle dims and the total becomes 29]
+She was still a child when the American War of Independence ended. She was eleven when the Bastille fell. She lived through the French Revolution, Napoleon, the reshaping of Geneva, and another French revolution in 1848.
 
-A single carefully chosen child was still risky.
+Nearly eighty years passed between the creation of the annuity and her death.
 
-She could become ill. She could die in an accident. She could simply have worse luck than the bankers expected. If your whole investment depended on that one life, all the family research in Geneva would not save you.
+We know remarkably little about the woman inside those years. Geneva's own library service can point to her dates and scattered family records, but not to a rich printed biography.
 
-So the bankers spread the investment across groups of lives.
+The financial archive is more talkative about why her pulse mattered to other people than the historical record is about what mattered to her.
 
-The exact contracts varied, but Cramer describes one clean example: 30,000 livres of annual income divided into small parts paying 30 livres each. Each part effectively contained one livre of income linked to each of thirty people.
+That is not a gap we should fill with invention.
 
-As long as all thirty lived, the investor received 30 livres.
+It is the story.
 
-If one died, the payment fell to 29.
+## 11:00–12:10 — The final count
 
-Three deaths brought it down to 27.
+[VISUAL: Full 1782 list. Remove all highlights. Keep every name equally visible. Music thins out rather than swells.]
 
-The entire investment did not disappear unless the entire group did.
+The French representative counted the girls because the system needed a yes or a no.
 
-This is sometimes described as a tontine, but that is not quite right. In a classic tontine, the survivors divide the shares of people who die, so their payments grow. Here, each death reduced the income. Nobody received a bonus because a girl died.
+Alive, the payment continues.
 
-What the banks had built was closer to a small investment fund. They took many life-contingent payments, bundled them, and sold pieces of the bundle to investors.
+Dead, it stops.
 
-And it worked. At least, it worked for the problem it was built to solve.
+But the girls themselves kept producing answers the paperwork had no box for.
 
-Cramer records that one later group lost three of its thirty named lives in its first year. For somebody holding a single annuity on one of those three, the result could be catastrophic. Across the whole group, income fell by one tenth.
+They married, travelled, crossed borders, and changed surnames. Some died before they could write. Some lived long enough to see the world that created these contracts disappear.
 
-Painful. Not fatal.
+On the surviving sheet, Elisabeth-Pauline is still three years old.
 
-That is diversification in a very recognisable form. You do not need to know which individual life will perform well if the group behaves roughly as expected.
+Pernette is still nineteen months.
 
-By the 1780s, Genevan banks were doing more than spotting a pricing mistake. They had built the paperwork, medical monitoring, Paris connections, payment collection, and resale structure needed to turn that mistake into a market.
+Thirty girls, fixed in ink at the moment adults decided their lives could keep time for money.
 
-## 10:05–12:20 — Why France kept agreeing to this
-
-[VISUAL: CONTEXT MAP — money moves from Geneva to Paris; royal expenditure and war documents accumulate behind the treasury]
-
-At this point, the obvious question is why France kept selling these things.
-
-The short answer is that France needed money.
-
-A lot of it.
-
-War was expensive, taxation was politically difficult, and the monarchy repeatedly raised cash by creating new forms of debt. Life annuities were attractive because the government received money immediately without promising to repay the principal on a fixed date.
-
-In February 1781, France authorized an issue providing six million livres of annual life-annuity payments. Demand exceeded the initial amount. Another three million livres of annual payments followed in March, although that extension included an amortization deduction.
-
-These were not a few eccentric Genevan bankers hiding in a back room. There was serious demand for French life-contingent debt.
-
-Jacques Necker makes the connection look even neater. He was a Genevan banker who became France’s director-general of finance, and his government relied heavily on borrowing during the American War of Independence.
-
-It is very tempting to say that Necker invented the Thirty Maidens, carried the idea to Paris, and personally built this entire machine.
-
-The evidence does not get us there.
-
-Cramer specifically warned that later writers may have misread the record when they credited Necker with inventing these multi-life schemes. Necker belongs in the story because he connected Genevan finance with French borrowing and used life annuities as part of that world. He does not need to be a secret mastermind.
-
-France was also not necessarily offering free money through pure incompetence. A 10 percent payment sounds wonderful until you remember who owed it: a monarchy with a weak fiscal system, large war bills, and no effortless way to raise taxes.
-
-Investors were being paid for credit risk, illiquidity, administration, exchange risk, and the possibility that the political rules would change.
-
-They were simply very focused on the one risk they could directly improve.
-
-## 12:20–14:45 — The risk behind every name
-
-[VISUAL: SYSTEM TURN — thirty separate life circles remain lit, but all their payment lines trace back to one French royal seal]
-
-By Cramer’s estimate, roughly 113.8 million livres of capital connected with French life annuities had been placed in Geneva. The estimate is incomplete and historical, so it should not be treated like an audited modern total. It does tell us that this was a large business.
-
-And every one of those contracts had two very different kinds of risk.
-
-The first was the obvious one: the named person might die.
-
-The Genevan structure handled that with careful selection, local information, and pooling.
-
-The second risk sat behind all thirty names.
-
-France might stop paying properly.
-
-You could choose thirty girls from different families. You could monitor their health separately. You could spread the investment across different birth dates and different households.
-
-But the money still came from one treasury.
-
-Then, in 1789, the political system around that treasury began to come apart.
-
-The Revolution did not simply erase every life annuity on the first day. The process became much messier than that. Revolutionary governments inherited the monarchy’s debts. They reclassified and converted claims, changed payment arrangements, and increasingly operated through a currency that was losing value.
-
-In 1794, Cambon’s restructuring converted life annuities according to formulas involving the age of the measuring life, the rate, and the amount of income. A surviving child could still be alive, exactly as the investor had hoped, while the economic value of the contract attached to her was cut apart by law and inflation.
-
-The banks created another problem.
-
-In Paris, a Genevan banking house might appear as the legal owner of an annuity. Back in Geneva, hundreds of smaller people could own beneficial pieces behind that bank. If the bank failed, who exactly held the claim against France?
-
-A widow with a small participation did not necessarily have her own clean line in the French ledger. She had a claim through an intermediary that might now be insolvent, missing records, arguing with creditors, or attempting to collect money across a revolutionary border.
-
-The girls could survive and the investment could still collapse.
-
-## 14:45–16:35 — What the story actually shows
-
-[VISUAL: PRIMARY DOCUMENT — return to the 1782 list; a few names remain highlighted while the royal payment seal fades behind them]
-
-This story is often told as a piece of pre-revolutionary madness. France tied its debt to thirty little girls, Genevan bankers exploited it, and somehow this helped bring down the monarchy.
-
-There is a real weakness inside that version. France often priced longevity crudely, and investors did select the contracts that looked most favourable. Expensive borrowing contributed to an already serious fiscal problem.
-
-But thirty girls did not cause the French Revolution.
-
-France had accumulated debt through wars, struggled to reform taxation, divided its obligations across a confusing range of instruments, and repeatedly borrowed around political problems it could not solve. The life annuities were one part of that system. A revealing part, but still one part.
-
-And the bankers were not obviously fools when the system later broke. They understood the mortality problem quite well. That is almost what makes the ending work.
-
-They selected young lives.
-
-They gathered family information.
-
-They paid for certificates and, sometimes, medical care.
-
-They spread one investment across thirty different people so that no single death could destroy it.
-
-Then the common risk arrived from somewhere else entirely.
-
-The useful comparison is not really with a casino. It is with any modern portfolio that appears diversified because it contains many separate assets, while all of those assets quietly depend on the same house price, the same insurer, the same funding market, or the same government.
-
-The components can be different without the underlying risk being different.
-
-[beat]
-
-The thirty names on this page were real people. They grew older while bankers recorded whether they were still alive, and investors waited for payments from a country moving toward revolution.
-
-The financiers had thirty different lives.
-
-They still only had one France.
+Then the girls went on living.
 
 ---
 
 ## End-card material
 
-- **One-sentence description:** In eighteenth-century Geneva, bankers pooled French government annuities around thirty named girls—solving the mortality problem while missing the much larger risk behind every payment.
-- **Pinned-comment question:** What modern investment looks diversified but still depends on one hidden common risk?
-- **Next-video bridge:** The closest natural follow-up is Somalia’s counterfeit currency or Newfoundland surrendering self-government during a debt crisis.
+- **One-sentence description:** In eighteenth-century Geneva, bankers turned groups of named girls into the living clocks behind investments sold across Europe—and then had to follow those children through death, marriage, travel, and old age.
+- **Pinned-comment question:** Which detail stayed with you: the public headcounts, the unsigned certificates, Pernette's death, or Elisabeth-Pauline living until 1862?
+- **Next-video bridge:** Keep the end card quiet. No spoken modern-finance lesson is needed.
 
 ## Unresolved factual and production flags
 
-1. Before final narration, inspect the exact January 1782 annuity edict rather than relying only on Cramer’s transcription of its age bands.
-2. The four names used in narration were checked against the high-resolution 1782 scan. Re-check any additional names added during the edit against the scan rather than OCR.
-3. Confirm e-rara/Bibliothèque de Genève reproduction terms before using the scans.
-4. Do not describe Necker as the inventor of the thirty-head structure.
-5. Do not label the product a conventional bond, a classic tontine, or a proven “first securitization.”
-6. Keep Cramer’s 113.8-million-livre figure explicitly identified as his historical estimate.
-7. The precise 1794 conversion procedure should receive a final page-level check against Velde’s “The Case of the Undying Debt” or the original Cambon material.
+1. The October 1784 group of twenty-nine girls and the January 1782 list are separate documented cohorts. The edit must never imply that the camera is following the exact same thirty children into that reception room.
+2. Re-check every spoken name against the high-resolution BGE scan; OCR is unreliable for eighteenth-century names.
+3. Cramer's 212,197-livre figure for payments attached to Pernette-Elisabeth Martin is an archival reconstruction. Keep the attribution in narration.
+4. The City of Geneva source supports Elisabeth-Pauline de Chapeaurouge's 1778–1862 lifespan. Her exact death place and full biography remain unverified for narration.
+5. Anne Audéoud is visual evidence for the wider circle, not the 1782 list. Preserve that clarification on screen and in narration.
+6. Confirm e-rara/Bibliothèque de Genève reproduction terms before using the scans. The Met marks the Anne Audéoud bust image Public Domain.
+7. Do not imply the girls received the annuity income, chose the contracts, or were one unchanging group.
 
 ## Voice-diagnostic summary
 
 ### Pre-revision diagnosis
 
-The factual draft was checked against the Franklin rubric. The main risks were: several overly symmetrical thesis lines; repeated “not X but Y” turns; and abstract language around diversification and sovereign risk. Those passages were narrowed to concrete actors, payments, records, and the single French treasury.
+The previous script changed subjects after the hook. The girls became examples in an argument about French sovereign risk, and the final third repeated a portfolio lesson the story did not need. The rewrite keeps one narrative question—what happened to the girls once money was attached to their lives—and uses finance only to explain the events around them.
 
 ### Post-revision scorecard
 
-- **Sentence rhythm:** 4.5/5 — varied section pressure, fragments used selectively, and longer explanations remain pronounceable.
-- **Structural predictability:** 4.5/5 — each chapter adds a new mechanism; transitions mainly mark genuine actor or time changes.
-- **Concrete versus abstract language:** 4.5/5 — named actors and payment mechanics carry most explanations.
-- **Personal stance:** 4/5 — skepticism and surprise follow the creator-approved Franklin boundaries without inventing autobiography.
-- **Signposting:** 4.5/5 — limited explicit navigation.
-- **Rhetorical-template frequency:** 4/5 — some contrast remains where the argument genuinely turns, but it is not the default paragraph shape.
-- **Vocabulary authenticity:** 4.5/5 — plain spoken vocabulary with technical terms introduced after the practical problem.
-- **Natural repetition:** 4.5/5 — “life,” “payment,” “risk,” and “France” recur because they remain the exact words.
-- **Spoken pronounceability:** 4.5/5 — numbers are attached to practical questions and dense clauses were separated.
-- **Conclusion neatness:** 4.5/5 — the final line grows directly from the common-sovereign-risk mechanism.
-- **Editorial average:** **4.4/5**, an editorial judgment rather than an objective authorship measure.
+- **Sentence rhythm:** 4.7/5 — short observations interrupt longer narrative passages without turning every paragraph into a slogan.
+- **Structural predictability:** 4.7/5 — the story moves by event: counted, named, selected, depicted, traced, lost, and remembered.
+- **Concrete versus abstract language:** 4.8/5 — rooms, lists, letters, surnames, and two specific girls carry the story.
+- **Signposting:** 4.6/5 — section turns follow time and the girls' changing status.
+- **Rhetorical-template frequency:** 4.5/5 — contrast is used where the family's record and the bank's record genuinely diverge.
+- **Vocabulary authenticity:** 4.7/5 — technical language is limited to the one mechanism viewers need.
+- **Natural repetition:** 4.7/5 — “alive,” “girl,” “name,” and “list” recur as physical story anchors.
+- **Spoken pronounceability:** 4.5/5 — French names need a creator read-aloud pass; surrounding syntax is simple.
+- **Conclusion neatness:** 4.8/5 — the ending returns to the document and stops before turning the girls into a universal lesson.
+- **Editorial average:** **4.7/5**, an editorial judgment rather than an objective authorship measure.
 
 ### Read-aloud watchlist
 
-These lines are intentionally marked for the creator’s spoken pass:
-
-- “The person providing the money did not always have to be the person whose life controlled the payments.”
-- “Smallpox mattered enormously, so surviving it—or, in some cases, being inoculated against it—could make a child a better measuring life.”
-- “By the 1780s, Genevan banks were doing more than spotting a pricing mistake.”
-- “In 1794, Cambon’s restructuring converted life annuities according to formulas involving the age of the measuring life, the rate, and the amount of income.”
-- “The components can be different without the underlying risk being different.”
+- “Anne-Marie-Albertine Sarasin” and “Eugénie-Michée de La Rive.”
+- “Pernette-Elisabeth Martin.”
+- “Elisabeth-Pauline de Chapeaurouge.”
+- “Eléonore-Madeleine Bertrand.”
+- “A living person had to be flattened back into acceptable proof.”
