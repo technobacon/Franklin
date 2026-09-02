@@ -1,8 +1,8 @@
-# Thirty Maidens of Geneva — source ledger
+# The 30 Little Girls Who Became an Investment — source ledger
 
-**Project:** France Bet Its Debt on 30 Little Girls  
-**Date compiled:** 2026-08-30  
-**Freshness cutoff:** 2026-08-30  
+**Project:** The 30 Little Girls Who Became an Investment  
+**Date compiled:** 2026-08-30; human-story update 2026-09-02  
+**Freshness cutoff:** 2026-09-02  
 **Companion dossier:** [2026-08-30-thirty-maidens-of-geneva.md](./2026-08-30-thirty-maidens-of-geneva.md)
 
 This ledger separates evidence for historical claims from material that is merely useful for illustration. Page numbers below refer to the printed pagination where available. All translations from French should be checked against the original before recording narration.
@@ -102,13 +102,28 @@ This ledger separates evidence for historical claims from material that is merel
 - **Claims it can carry:** Genevan banks sold fund-like shares from the early 1770s into the late 1780s; nominees were young and often chosen from known families; the arrangements belong in the prehistory of financial economics.
 - **Caveat:** “Early investment fund” is supported. “First securitization” is a modern analogy and should be framed as a question, not a settled classification.
 
-### B5. Rebecca L. Spang, Stuff and Money in the Time of the French Revolution (2015)
+### B5. Rebecca L. Spang, *Stuff and Money in the Time of the French Revolution* (2015)
 
 - **Publisher:** Harvard University Press
-- **Preview route:** https://www.perlego.com/book/1133245/stuff-and-money-in-the-time-of-the-french-revolution-pdf
-- **Why it matters:** Connects the contracts to revolutionary money, material culture, and the named lives behind ostensibly abstract claims.
-- **Useful details to verify in the print edition:** Families used daughters, nieces, and cousins; women were preferred partly for longevity; state and bankers maintained proof-of-life systems.
-- **Limitations:** Obtain page-accurate citations from a library copy before narration.
+- **ISBN:** 978-0-674-04703-7
+- **Searchable reading copy used for this pass:** https://dokumen.pub/stuff-and-money-in-the-time-of-the-french-revolution-0674047036-9780674047037.html
+- **Why it matters:** The strongest reconstruction of the girls as people moving through a working administrative system rather than as symbols in a fiscal argument.
+- **Page-accurate material checked:**
+  - **pp. 19–20:** the French representative counted girls repeatedly; 27 were checked on the morning of 1 July 1784 and more than 100 women and girls later that day; in October 1784, 29 girls under seven gathered in his reception rooms.
+  - **pp. 21–23:** explanation of the life-annuity rule, separation of investor and measuring life, Antoine Josué Diodati's six-daughter example, and the bankers' shift to repeated thirty-life pools.
+  - **pp. 23–25:** daughters, nieces, and granddaughters from connected Genevan intellectual and banking families; more than 100 named lives in a city of roughly 20,000.
+  - **pp. 25–26:** the plaster bust traditionally identified as Anne Audéoud and her later marriage to Gabriel Cramer.
+  - **pp. 27–28:** investors across Europe; the girls' lack of financial interest; signatures not required; the Strasbourg official who noted three girls could not sign because they could not read or write.
+- **Use with care:** The October 1784 headcount and January 1782 list are separate cohorts. Spang also makes interpretive comparisons the script does not need.
+- **Citation workflow:** Use the printed book for final on-screen bibliography. The searchable copy was used to locate and verify passages, not as a visual asset.
+
+### B5a. François Forster, “Les trente Immortelles de Genève” (2006)
+
+- **Journal:** *Articulo – Journal of Urban Research*
+- **Article:** https://journals.openedition.org/articulo/891
+- **Why it matters:** A women-centered interpretation of the Genevan measuring lives and the family system around them.
+- **Use:** Context for how girls entered finance through patriarchal household and kinship structures.
+- **Limitation:** Do not let an interpretive frame substitute for a documented biography of any named child.
 
 ### B6. Pierre de Saint-Phalle, Jacques Necker and the Fiscal Origins of the French Revolution
 
@@ -143,10 +158,18 @@ This ledger separates evidence for historical claims from material that is merel
 - **Use:** Modern “securitization” analogy and narrative orientation.
 - **Limitation:** Advocacy article. It overcompresses causality if read as “this product caused the Revolution.”
 
+### C4. City of Geneva library service, Elisabeth-Pauline de Chapeaurouge
+
+- **Page:** https://www.geneve.ch/themes/culture/bibliotheques/interroge/reponses/je-cherche-des-informations-biographiques-concernant-elisabeth-pauline-de-chapeaurouge-1778-1862
+- **Supports:** The municipal library's research response identifies Elisabeth-Pauline de Chapeaurouge as 1778–1862 and notes the limited biographical record located.
+- **Use:** Safe support for the lifespan and for saying that a rich printed biography has not been found.
+- **Limitation:** Do not add an exact death place, marriage, children, or interior life without stronger records.
+
 ## Candidate still images
 
 | Asset | Link | Editorial use | Rights note |
 |---|---|---|---|
+| Anne Audéoud of Geneva, plaster bust | https://www.metmuseum.org/art/collection/search/199036 | A real child's face from the wider circle of Genevan measuring lives; hold on the portrait during the humanizing turn | The Met marks the image Public Domain; identify it as traditional attribution and clarify she is not on the January 1782 list |
 | The 1782 list of thirty girls | https://www.e-rara.ch/gep_r/content/zoom/31278574 | Cold open, names, dates, human reality | Public-domain underlying document; confirm repository reproduction terms |
 | 1782 list with parents | https://www.e-rara.ch/gep_r/content/zoom/31278744 | Show social networks and trackable lives | Same |
 | Jacques Necker by/after Duplessis | https://commons.wikimedia.org/wiki/File:Necker,_Jacques_-_Duplessis.jpg | Introduce the finance minister | Check the file page’s exact public-domain statement at download |
@@ -192,3 +215,15 @@ No eighteenth-century footage exists. Use modern establishing shots sparingly, t
 5. Reconcile Cramer’s Geneva totals with Velde/Weir and any later scholarship.
 6. Identify which of the thirty names in A1 can be followed into later life without relying on genealogy sites.
 7. Confirm e-rara’s current reproduction conditions in writing before using full-resolution scans.
+
+## Human-story source routing
+
+- **Cold open / headcounts:** Spang, pp. 19–20.
+- **Names and ages:** BGE Gf 1341/3/2303 and /2304.
+- **Family selection, care, inoculation, boys' pensions:** Cramer, pp. 115–16.
+- **Proof-of-life complications after marriage or travel:** Cramer, pp. 118–19.
+- **Pernette-Elisabeth Martin's death and attached annual rent:** Cramer, p. 116, cross-checked against the 1782 BGE list.
+- **Elisabeth-Pauline de Chapeaurouge's lifespan:** BGE list plus City of Geneva library service.
+- **Anne Audéoud visual and rights:** Metropolitan Museum of Art object 42.23.2; Spang, pp. 25–26 for the wider financial context.
+
+The revised script deliberately leaves out claims about a French sovereign-risk “failure,” a causal link to the Revolution, and a modern securitization lesson. Those materials remain in this ledger as background and guardrails, not as the episode's narrative spine.
