@@ -91,7 +91,7 @@ The same library holds another version that adds their fathers.
 
 That detail mattered. The bankers were not looking for anonymous children. They wanted girls whose births, families, health, and whereabouts could be checked.
 
-And one clarification: there was not a single, permanent squad of exactly thirty children. Bankers assembled several groups—sometimes thirty lives, sometimes more. The phrase “the thirty girls of Geneva” became almost a product name. Marc Cramer's archival study describes groups of thirty, fifty, and sixty lives, although thirty was the usual format.
+And one clarification: there was not a single, permanent squad of exactly thirty children. Bankers assembled several groups—sometimes thirty lives, sometimes more. The phrase “the thirty girls of Geneva” became almost a product name. The surviving research describes groups of thirty, fifty, and sixty lives, although thirty was the usual format.
 
 But every version of the product began the same way.
 
@@ -127,7 +127,7 @@ That is almost all the finance we need. The rest of the story is what happened w
 
 [VISUAL: Names from prominent Genevan families connect gently across a period map: Pictet, Cramer, Sarasin, Diodati, Rilliet, de La Rive.]
 
-Cramer's work gets much stranger here. In the surviving records, the girls were chosen carefully.
+That same study gets much stranger here. In the surviving records, the girls were chosen carefully.
 
 Usually they came from wealthy, well-known households. Partly because bankers knew the families. Partly because a child in a comfortable home had a better chance of good food, attentive care, and a doctor when she needed one.
 
@@ -221,7 +221,7 @@ Across Europe, people who may never have heard Pernette speak received less mone
 
 That contrast is the most uncomfortable part of the story. The system did not require anyone to celebrate her death. The investors wanted the opposite. But it gave the same event two completely different meanings, depending on which piece of paper you were holding.
 
-Cramer's records contain more of these abrupt endings. Colombine Diodati made it to twenty before she became the first death in her group. Jeanne Pictet died at four. A later pool lost three of thirty lives in its first year.
+The records contain more of these abrupt endings. Colombine Diodati made it to twenty before she became the first death in her group. Jeanne Pictet died at four. A later pool lost three of thirty lives in its first year.
 
 Every loss began in a home.
 
